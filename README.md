@@ -1,4 +1,8 @@
-# Problematização de Sinais de Trânsito com Mau Funcionamento Durante Chuvas
+# Projeto para Sinais de Trânsito com Mau Funcionamento Durante Chuvas
+
+![Gif chuva](<iframe src="https://giphy.com/embed/DD4FroTT30PeSamZbG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DD4FroTT30PeSamZbG">via GIPHY</a></p>)
+
+## Problematização 
 
 Este projeto aborda a problemática dos sinais de trânsito que apresentam mau funcionamento durante chuvas, o que pode causar confusão e aumentar o risco de acidentes nas estradas. O objetivo é identificar os problemas, analisar os impactos e propor soluções para melhorar a segurança viária.
 
@@ -31,11 +35,16 @@ O foco é detectar e corrigir falhas durante condições climáticas adversas, c
 - **Melhoria da Segurança Viária**: Ao garantir que os sinais de trânsito funcionem corretamente mesmo em condições climáticas adversas, contribuímos para a redução de acidentes e para a segurança dos motoristas e pedestres.
 - **Eficiência Operacional**: A automatização do processo de monitoramento e manutenção reduz os custos e o tempo necessário para lidar com falhas nos sinais de trânsito.
 
-## Diagrama Conceitual
+## Diagrama Conceitual Br modelo
 
 Aqui está o diagrama conceitual do banco de dados utilizado no projeto:
 
 ![Diagrama conceitual feito no brmodelo](Projeto_Sinais_Transito.png)
+
+## Diagrama DBdiagram
+
+![Diagrama conceitual feito no dbdiagram](Projeto_Sinais_Transitos.png)
+
 
 ### Entidades e Relacionamentos
 
