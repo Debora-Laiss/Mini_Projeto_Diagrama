@@ -1,6 +1,7 @@
 # Projeto para Sinais de Trânsito com Mau Funcionamento Durante Chuvas
 
-![Gif chuva](<iframe src="https://giphy.com/embed/DD4FroTT30PeSamZbG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DD4FroTT30PeSamZbG">via GIPHY</a></p>)
+![GIF Chuva](https://media.giphy.com/media/DD4FroTT30PeSamZbG/giphy.gif)
+
 
 ## Problematização 
 
